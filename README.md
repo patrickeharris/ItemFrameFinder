@@ -4,5 +4,5 @@ A modified version of Sign reader (https://www.reddit.com/r/MinecraftDataMining/
 
 **How Do I Use The Program?**
 
-Place the jar file in the same folder as the level.dat file. Run the jar file and after it is complete the results will be saved to an output.txt file in the same folder. The output.tx file displays chunk information, coordinates, and the item inside the item frame. 
+Place the jar file in the same folder as the level.dat file. Run the jar file and after it is complete the results will be saved to an output.txt file in the same folder. The output.txt file displays chunk information, coordinates, and the item inside the item frame. 
 The jar file may take awhile to run in the background depending on how big the Minecraft save file is.
